@@ -1,4 +1,6 @@
 # Question 1
+
+
 students = []
 
 n = int(input("enter no students: "))
@@ -27,6 +29,9 @@ for student in students:
         print(student[0])
 
 # Question 2
+
+
+
 products = {
     101: ["Laptop", "Electronics", 800, 10],
     102: ["Phone", "Electronics", 500, 0],
@@ -67,6 +72,8 @@ print("Only B:", course_b - course_a)
 print("All:", course_a | course_b)
 
 # Question 5
+
+
 emp = {}
 
 n = int(input("Enter no employees: "))
@@ -99,6 +106,8 @@ eid = input("Enter ID for remove: ")
 emp.pop(eid, None)
 
 # Question 6
+
+
 logs = input("Enter logs: ").split()
 
 count = {}
@@ -113,6 +122,8 @@ most = max(count, key=count.get)
 print("Most frequent:", most)
 
 # Question 7
+
+
 cart = {}
 
 def add_product(pid, price, qty):
@@ -140,6 +151,8 @@ remove_product("P2")
 print("Total:", total())
 
 # Question 8
+
+
 emails = [
     "ali@gmail.com", "ali@yahoo.com", "ahmed@gmail.com",
     "taha@gmail.com", "ali@yahoo.com", "zayyan@hotmail.com"
@@ -150,6 +163,8 @@ unique = list(dict.fromkeys(emails))
 print(unique)
 
 # Question 9
+
+
 config = (
     "App",
     "1.6",
@@ -164,7 +179,10 @@ try:
 except TypeError as e:
     print("cant modify:", e)
 
+
 # Question 10
+
+
 employees = [
     ("E101", "Ali", "IT", 85000),
     ("E102", "Sara", "HR", 75000),
