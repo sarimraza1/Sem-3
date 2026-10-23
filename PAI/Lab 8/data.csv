@@ -1,0 +1,53 @@
+dataset_id,scenario,student_id,study_hours,prep_course,exam_score,stress_level,school_type
+DS1,01_StudyVsScore,S001,2.5,None,58,7,Public
+DS1,01_StudyVsScore,S002,5.0,Completed,78,5,Public
+DS1,01_StudyVsScore,S003,1.5,None,45,9,Private
+DS1,01_StudyVsScore,S004,8.0,Completed,92,3,Private
+DS1,01_StudyVsScore,S005,4.0,None,65,6,Public
+DS1,01_StudyVsScore,S006,6.5,Completed,85,4,Private
+DS1,01_StudyVsScore,S007,3.0,None,55,8,Public
+DS1,01_StudyVsScore,S008,9.0,Completed,96,2,Private
+DS1,01_StudyVsScore,S009,2.0,None,50,8,Public
+DS1,01_StudyVsScore,S010,7.5,Completed,88,3,Public
+DS2,02_MonthlySales,M001,2023-01,TechStore,12000,150,TechStore
+DS2,02_MonthlySales,M002,2023-02,TechStore,14500,160,TechStore
+DS2,02_MonthlySales,M003,2023-03,TechStore,13000,155,TechStore
+DS2,02_MonthlySales,M004,2023-04,TechStore,18000,190,TechStore
+DS2,02_MonthlySales,M005,2023-05,TechStore,21000,210,TechStore
+DS2,02_MonthlySales,M006,2023-06,TechStore,19500,200,TechStore
+DS2,02_MonthlySales,M007,2023-01,ApparelCo,8000,90,ApparelCo
+DS2,02_MonthlySales,M008,2023-02,ApparelCo,9500,100,ApparelCo
+DS2,02_MonthlySales,M009,2023-03,ApparelCo,11000,115,ApparelCo
+DS2,02_MonthlySales,M010,2023-04,ApparelCo,10500,110,ApparelCo
+DS2,02_MonthlySales,M011,2023-05,ApparelCo,13000,125,ApparelCo
+DS2,02_MonthlySales,M012,2023-06,ApparelCo,15000,140,ApparelCo
+DS3,03_SalaryDiff,E001,Software Engineer,Entry,65000,2,Tech
+DS3,03_SalaryDiff,E002,Software Engineer,Mid,95000,5,Tech
+DS3,03_SalaryDiff,E003,Software Engineer,Senior,135000,9,Tech
+DS3,03_SalaryDiff,E004,Data Analyst,Entry,55000,1,Tech
+DS3,03_SalaryDiff,E005,Data Analyst,Mid,78000,4,Tech
+DS3,03_SalaryDiff,E006,Data Analyst,Senior,110000,8,Tech
+DS3,03_SalaryDiff,E007,HR Specialist,Entry,48000,2,HR
+DS3,03_SalaryDiff,E008,HR Specialist,Mid,62000,5,HR
+DS3,03_SalaryDiff,E009,HR Specialist,Senior,85000,10,HR
+DS3,03_SalaryDiff,E010,Software Engineer,Senior,142000,11,Tech
+DS4,04_CustAgeDist,C001,Male,19,45,2,Retail
+DS4,04_CustAgeDist,C002,Female,25,60,4,Retail
+DS4,04_CustAgeDist,C003,Female,32,85,6,Retail
+DS4,04_CustAgeDist,C004,Male,45,30,1,Retail
+DS4,04_CustAgeDist,C005,Male,22,50,3,Retail
+DS4,04_CustAgeDist,C006,Female,28,70,5,Retail
+DS4,04_CustAgeDist,C007,Male,55,20,1,Retail
+DS4,04_CustAgeDist,C008,Female,40,95,8,Retail
+DS4,04_CustAgeDist,C009,Male,35,65,4,Retail
+DS4,04_CustAgeDist,C0010,Female,21,40,2,Retail
+DS5,05_AdVsRevenue,A001,1000,12000,15,Digital,Digital
+DS5,05_AdVsRevenue,A002,1500,16000,22,Digital,Digital
+DS5,05_AdVsRevenue,A003,2000,19500,30,Digital,Digital
+DS5,05_AdVsRevenue,A004,2500,24000,38,Digital,Digital
+DS5,05_AdVsRevenue,A005,3000,29000,45,Digital,Digital
+DS5,05_AdVsRevenue,A006,3500,31000,50,Digital,Digital
+DS5,05_AdVsRevenue,A007,4000,36000,62,Digital,Digital
+DS5,05_AdVsRevenue,A008,4500,39000,70,Digital,Digital
+DS5,05_AdVsRevenue,A009,5000,43000,81,Digital,Digital
+DS5,05_AdVsRevenue,A010,5500,47000,90,Digital,Digital
